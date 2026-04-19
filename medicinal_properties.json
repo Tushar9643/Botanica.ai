@@ -1,0 +1,450 @@
+{
+  "Adathoda": {
+    "scientific_name": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "common_names": ["Adhatoda", "Malabar Nut", "Vasaka"],
+    "parts_used": ["Leaves", "Flowers", "Root"],
+    "medicinal_uses": [
+      "Treatment of cough, cold, and bronchitis",
+      "Expectorant — loosens phlegm from the respiratory tract",
+      "Anti-asthmatic properties",
+      "Used for bleeding disorders and wound healing",
+      "Anti-inflammatory and antimicrobial"
+    ],
+    "key_compounds": ["Vasicine", "Vasicinone", "Adhatodine"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Unani"],
+    "precautions": "Avoid during pregnancy. May cause nausea in large doses."
+  },
+  "Banana": {
+    "scientific_name": "Musa paradisiaca",
+    "family": "Musaceae",
+    "common_names": ["Banana", "Plantain", "Kela"],
+    "parts_used": ["Flower", "Fruit", "Stem", "Leaves"],
+    "medicinal_uses": [
+      "Banana flower helps manage diabetes and anemia",
+      "Rich in potassium — helps regulate blood pressure",
+      "Used for treating diarrhea and dysentery",
+      "Stem juice used for kidney stones and urinary disorders",
+      "Leaves used as wound dressings in traditional medicine"
+    ],
+    "key_compounds": ["Potassium", "Vitamin B6", "Dopamine", "Serotonin"],
+    "traditional_systems": ["Ayurveda", "Folk medicine"],
+    "precautions": "Excessive consumption may cause hyperkalemia in patients with kidney disease."
+  },
+  "Bush Clock Vine": {
+    "scientific_name": "Thunbergia alata",
+    "family": "Acanthaceae",
+    "common_names": ["Bush Clock Vine", "Black-eyed Susan Vine"],
+    "parts_used": ["Leaves", "Flowers", "Whole plant"],
+    "medicinal_uses": [
+      "Used in traditional African medicine for skin diseases",
+      "Anti-inflammatory properties",
+      "Treatment of eye infections",
+      "Used as an antidote for snake bites in folk medicine",
+      "Antimicrobial activity against common pathogens"
+    ],
+    "key_compounds": ["Flavonoids", "Tannins", "Alkaloids"],
+    "traditional_systems": ["African traditional medicine", "Folk medicine"],
+    "precautions": "Limited clinical studies available. Use under guidance."
+  },
+  "Champaka": {
+    "scientific_name": "Magnolia champaca",
+    "family": "Magnoliaceae",
+    "common_names": ["Champaka", "Golden Champa", "Shenbagam"],
+    "parts_used": ["Flowers", "Bark", "Root", "Leaves"],
+    "medicinal_uses": [
+      "Flower extract used as antipyretic (fever reducer)",
+      "Bark used for treating rheumatism and joint pain",
+      "Diuretic properties — helps in urinary disorders",
+      "Used as a brain tonic and for treating headaches",
+      "Anti-inflammatory and antioxidant"
+    ],
+    "key_compounds": ["Linalool", "Beta-elemene", "Cineole", "Parthenolide"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Chinese traditional medicine"],
+    "precautions": "Essential oil should be diluted before topical use. Avoid oral intake of oil."
+  },
+  "Chitrak": {
+    "scientific_name": "Plumbago zeylanica",
+    "family": "Plumbaginaceae",
+    "common_names": ["Chitrak", "White Leadwort", "Ceylon Leadwort"],
+    "parts_used": ["Root", "Root bark", "Leaves"],
+    "medicinal_uses": [
+      "Powerful digestive stimulant — improves appetite",
+      "Used in treatment of piles and hemorrhoids",
+      "Anti-rheumatic and anti-arthritic properties",
+      "Treats skin diseases like leucoderma",
+      "Hepatoprotective — supports liver function"
+    ],
+    "key_compounds": ["Plumbagin", "Chitranone", "Zeylanone"],
+    "traditional_systems": ["Ayurveda", "Siddha"],
+    "precautions": "Highly potent. Can cause skin irritation. Must be used under expert guidance. Avoid during pregnancy."
+  },
+  "Common Lanthana": {
+    "scientific_name": "Lantana camara",
+    "family": "Verbenaceae",
+    "common_names": ["Common Lantana", "Wild Sage", "Tickberry"],
+    "parts_used": ["Leaves", "Flowers", "Root"],
+    "medicinal_uses": [
+      "Leaf paste used for wound healing and skin itches",
+      "Anti-inflammatory and antimicrobial",
+      "Used in treating respiratory infections",
+      "Leaf decoction used for malaria and fever",
+      "Mosquito repellent properties"
+    ],
+    "key_compounds": ["Lantadene A", "Lantadene B", "Camaric acid", "Oleanolic acid"],
+    "traditional_systems": ["Ayurveda", "Folk medicine"],
+    "precautions": "Toxic if ingested — especially berries and leaves. Can cause hepatotoxicity in livestock. External use only recommended."
+  },
+  "Crown Flower": {
+    "scientific_name": "Calotropis gigantea",
+    "family": "Apocynaceae",
+    "common_names": ["Crown Flower", "Giant Milkweed", "Aak", "Erukku"],
+    "parts_used": ["Flowers", "Latex", "Leaves", "Root bark"],
+    "medicinal_uses": [
+      "Latex used for treating skin diseases and leprosy",
+      "Root bark for fever, cough, and asthma",
+      "Flower extract used for digestive disorders",
+      "Anti-inflammatory and analgesic properties",
+      "Used in Ayurveda for treating elephantiasis"
+    ],
+    "key_compounds": ["Calotropin", "Uscharin", "Gigantin", "Calotropagenin"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Unani"],
+    "precautions": "Latex is highly irritating to eyes and skin. Toxic if ingested in large quantities. Use under strict medical supervision."
+  },
+  "Datura": {
+    "scientific_name": "Datura stramonium",
+    "family": "Solanaceae",
+    "common_names": ["Datura", "Thorn Apple", "Jimson Weed", "Ummetta"],
+    "parts_used": ["Leaves", "Seeds", "Flowers"],
+    "medicinal_uses": [
+      "Antispasmodic — used in asthma treatment (smoked leaves)",
+      "Analgesic for joint pain and rheumatism (external paste)",
+      "Used in Ayurveda for hair fall treatment",
+      "Sedative properties for insomnia (low doses)",
+      "Anti-inflammatory for swelling and boils"
+    ],
+    "key_compounds": ["Scopolamine", "Atropine", "Hyoscyamine"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Unani"],
+    "precautions": "EXTREMELY TOXIC. Can cause hallucinations, respiratory failure, and death. Never self-medicate. Use only under expert Ayurvedic supervision with proper processing."
+  },
+  "Four O' Clock Flower": {
+    "scientific_name": "Mirabilis jalapa",
+    "family": "Nyctaginaceae",
+    "common_names": ["Four O'Clock Flower", "Marvel of Peru", "Anthi Mandhaarai"],
+    "parts_used": ["Leaves", "Root", "Seeds", "Flowers"],
+    "medicinal_uses": [
+      "Root used as purgative and for dropsy",
+      "Leaf juice used for wound healing",
+      "Anti-inflammatory and antimicrobial",
+      "Seeds used in traditional cosmetics",
+      "Used for treating abscesses and boils"
+    ],
+    "key_compounds": ["Trigonelline", "Arabinose", "Mirabilis antiviral protein"],
+    "traditional_systems": ["Ayurveda", "Traditional Chinese medicine", "Folk medicine"],
+    "precautions": "Seeds and root may be toxic in large doses. Avoid during pregnancy."
+  },
+  "Hibiscus": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "common_names": ["Hibiscus", "Shoe Flower", "China Rose", "Jaswand"],
+    "parts_used": ["Flowers", "Leaves", "Root"],
+    "medicinal_uses": [
+      "Promotes hair growth and prevents premature graying",
+      "Flower tea lowers blood pressure",
+      "Rich in antioxidants — helps manage cholesterol",
+      "Used for menstrual regulation and uterine disorders",
+      "Cooling agent for body heat and urinary infections"
+    ],
+    "key_compounds": ["Anthocyanins", "Quercetin", "Cyanidin", "Hibiscitrin"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Unani"],
+    "precautions": "May interact with blood pressure medications. Avoid during pregnancy as it may affect estrogen levels."
+  },
+  "Honey Suckle": {
+    "scientific_name": "Lonicera japonica",
+    "family": "Caprifoliaceae",
+    "common_names": ["Honeysuckle", "Japanese Honeysuckle", "Jin Yin Hua"],
+    "parts_used": ["Flowers", "Leaves", "Stem"],
+    "medicinal_uses": [
+      "Powerful anti-viral and anti-bacterial properties",
+      "Used for treating common cold and flu",
+      "Anti-inflammatory — used for sore throat and tonsillitis",
+      "Detoxification and blood purification",
+      "Used in treating hepatitis and urinary tract infections"
+    ],
+    "key_compounds": ["Chlorogenic acid", "Luteolin", "Lonicerin", "Saponins"],
+    "traditional_systems": ["Traditional Chinese medicine", "Ayurveda"],
+    "precautions": "Generally safe. Some species' berries may be toxic. Avoid excessive use during pregnancy."
+  },
+  "Indian Mallow": {
+    "scientific_name": "Abutilon indicum",
+    "family": "Malvaceae",
+    "common_names": ["Indian Mallow", "Atibala", "Thuthi"],
+    "parts_used": ["Leaves", "Root", "Seeds", "Bark"],
+    "medicinal_uses": [
+      "Demulcent — soothes inflamed mucous membranes",
+      "Used for treating piles, diarrhea, and dysentery",
+      "Diuretic — treats urinary disorders",
+      "Root decoction used for fever and chest infections",
+      "Leaf paste applied for boils and ulcers"
+    ],
+    "key_compounds": ["Asparagine", "Gallic acid", "Sesquiterpenes", "Flavonoids"],
+    "traditional_systems": ["Ayurveda", "Siddha"],
+    "precautions": "Generally considered safe. Consult a practitioner for internal use."
+  },
+  "Jatropha": {
+    "scientific_name": "Jatropha curcas",
+    "family": "Euphorbiaceae",
+    "common_names": ["Jatropha", "Physic Nut", "Purging Nut", "Ratanjyot"],
+    "parts_used": ["Latex", "Leaves", "Bark", "Seeds"],
+    "medicinal_uses": [
+      "Latex used for wound healing and as styptic (stops bleeding)",
+      "Leaf decoction used for malaria and fever",
+      "Anti-inflammatory paste for skin infections",
+      "Bark used for treating gum diseases",
+      "Antimicrobial and antifungal properties"
+    ],
+    "key_compounds": ["Curcin", "Jatrophin", "Phorbol esters", "Tannins"],
+    "traditional_systems": ["Ayurveda", "African traditional medicine"],
+    "precautions": "Seeds are highly toxic. Latex can be irritating. Never ingest seeds. Use external preparations only under guidance."
+  },
+  "Malabar Melastome": {
+    "scientific_name": "Melastoma malabathricum",
+    "family": "Melastomataceae",
+    "common_names": ["Malabar Melastome", "Indian Rhododendron", "Kaadaali"],
+    "parts_used": ["Leaves", "Root", "Flowers"],
+    "medicinal_uses": [
+      "Leaf paste used for wound healing and cuts",
+      "Treatment of diarrhea and dysentery",
+      "Used for toothache and dental ailments",
+      "Anti-inflammatory and antioxidant",
+      "Root decoction for post-partum recovery"
+    ],
+    "key_compounds": ["Kaempferol", "Quercetin", "Ellagic acid", "Tannins"],
+    "traditional_systems": ["Ayurveda", "Malaysian traditional medicine"],
+    "precautions": "Generally safe for external use. Internal use should be under practitioner guidance."
+  },
+  "Marigold": {
+    "scientific_name": "Tagetes erecta",
+    "family": "Asteraceae",
+    "common_names": ["Marigold", "African Marigold", "Genda"],
+    "parts_used": ["Flowers", "Leaves"],
+    "medicinal_uses": [
+      "Anti-inflammatory — used for wound healing and skin repair",
+      "Treatment of eye disorders (rich in lutein)",
+      "Antiseptic properties for cuts and burns",
+      "Used for ear infections and earache",
+      "Antifungal and insecticidal properties"
+    ],
+    "key_compounds": ["Lutein", "Zeaxanthin", "Thiophenes", "Flavonoids"],
+    "traditional_systems": ["Ayurveda", "Folk medicine", "Homeopathy"],
+    "precautions": "May cause contact dermatitis in sensitive individuals. Avoid during pregnancy."
+  },
+  "Nagapoovu": {
+    "scientific_name": "Mesua ferrea",
+    "family": "Calophyllaceae",
+    "common_names": ["Nagapoovu", "Indian Rose Chestnut", "Nagkeshar", "Ironwood"],
+    "parts_used": ["Flowers", "Seeds", "Bark", "Leaves"],
+    "medicinal_uses": [
+      "Flowers used for bleeding disorders and menorrhagia",
+      "Seed oil used for skin diseases and rheumatism",
+      "Anti-inflammatory and analgesic properties",
+      "Used as astringent for diarrhea and dysentery",
+      "Bark used for gastritis and bronchitis"
+    ],
+    "key_compounds": ["Mesuaferrone", "Mesuol", "Mammeisin", "Xanthones"],
+    "traditional_systems": ["Ayurveda", "Siddha"],
+    "precautions": "Generally safe in prescribed doses. Consult an Ayurvedic practitioner."
+  },
+  "Nityakalyani": {
+    "scientific_name": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "common_names": ["Nityakalyani", "Madagascar Periwinkle", "Sadabahar", "Vinca"],
+    "parts_used": ["Leaves", "Flowers", "Root", "Whole plant"],
+    "medicinal_uses": [
+      "Source of vincristine and vinblastine — used in cancer chemotherapy",
+      "Leaf juice used for managing diabetes",
+      "Used for treating high blood pressure",
+      "Antimicrobial and antioxidant",
+      "Traditional use for menstrual regulation and malaria"
+    ],
+    "key_compounds": ["Vincristine", "Vinblastine", "Ajmalicine", "Serpentine"],
+    "traditional_systems": ["Ayurveda", "Chinese traditional medicine", "Modern pharmacology"],
+    "precautions": "Contains potent alkaloids. NEVER self-medicate. Raw plant consumption can be toxic. Used in modern medicine only in processed pharmaceutical form."
+  },
+  "Pinwheel": {
+    "scientific_name": "Tabernaemontana divaricata",
+    "family": "Apocynaceae",
+    "common_names": ["Pinwheel Flower", "Crepe Jasmine", "Nandiyar Vattai", "Chandni"],
+    "parts_used": ["Flowers", "Leaves", "Root", "Bark", "Latex"],
+    "medicinal_uses": [
+      "Used for treating eye diseases and conjunctivitis",
+      "Root bark used as a vermifuge (anti-parasitic)",
+      "Flower extract for skin diseases",
+      "Analgesic and anti-inflammatory properties",
+      "Latex used for treating toothache"
+    ],
+    "key_compounds": ["Coronaridine", "Voacangine", "Ibogamine", "Tabersonine"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Thai traditional medicine"],
+    "precautions": "Latex may irritate skin. Root preparations should be used under guidance."
+  },
+  "Rose": {
+    "scientific_name": "Rosa indica",
+    "family": "Rosaceae",
+    "common_names": ["Rose", "Gulab", "Roja"],
+    "parts_used": ["Flowers", "Petals", "Rose hips", "Rose water"],
+    "medicinal_uses": [
+      "Rose water used as cooling agent for eyes and skin",
+      "Rose petal jam (Gulkand) aids digestion and reduces body heat",
+      "Rich in Vitamin C (rose hips) — boosts immunity",
+      "Mild laxative and blood purifier",
+      "Used for treating sore throat and mouth ulcers"
+    ],
+    "key_compounds": ["Citronellol", "Geraniol", "Vitamin C", "Tannins", "Quercetin"],
+    "traditional_systems": ["Ayurveda", "Unani", "Persian medicine"],
+    "precautions": "Generally very safe. Rose oil should be diluted before topical application."
+  },
+  "Shankupushpam": {
+    "scientific_name": "Clitoria ternatea",
+    "family": "Fabaceae",
+    "common_names": ["Shankupushpam", "Butterfly Pea", "Aparajita", "Blue Pea"],
+    "parts_used": ["Flowers", "Root", "Seeds", "Leaves"],
+    "medicinal_uses": [
+      "Powerful brain tonic — enhances memory and cognition",
+      "Used for treating anxiety and depression",
+      "Anti-diabetic properties",
+      "Root used for treating leucorrhoea and urinary disorders",
+      "Rich in antioxidants — anti-aging properties"
+    ],
+    "key_compounds": ["Anthocyanins (Ternatin)", "Taraxerol", "Cliotide", "Kaempferol"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Traditional Chinese medicine"],
+    "precautions": "Avoid during pregnancy. May interact with anticoagulant medications."
+  },
+  "Spider Lily": {
+    "scientific_name": "Hymenocallis littoralis",
+    "family": "Amaryllidaceae",
+    "common_names": ["Spider Lily", "Beach Spider Lily", "Naagadamani"],
+    "parts_used": ["Bulb", "Leaves"],
+    "medicinal_uses": [
+      "Bulb paste used for treating swelling and joint pain",
+      "Anti-inflammatory properties",
+      "Used in folk medicine for treating rheumatism",
+      "Antimicrobial activity",
+      "Emetic properties (induces vomiting to clear toxins)"
+    ],
+    "key_compounds": ["Lycorine", "Pancratistatin", "Galanthamine", "Tazettine"],
+    "traditional_systems": ["Ayurveda", "Folk medicine"],
+    "precautions": "Bulb is toxic if ingested in large quantities. External use recommended. Keep away from children."
+  },
+  "Sunflower": {
+    "scientific_name": "Helianthus annuus",
+    "family": "Asteraceae",
+    "common_names": ["Sunflower", "Surajmukhi"],
+    "parts_used": ["Seeds", "Flowers", "Leaves", "Root"],
+    "medicinal_uses": [
+      "Seeds are rich in Vitamin E — antioxidant and skin health",
+      "Sunflower oil used for lowering cholesterol",
+      "Leaf tea used as astringent and diuretic",
+      "Used for treating bronchial and throat infections",
+      "Anti-inflammatory properties"
+    ],
+    "key_compounds": ["Vitamin E", "Linoleic acid", "Heliannone", "Lecithin"],
+    "traditional_systems": ["Folk medicine", "Native American medicine"],
+    "precautions": "Generally safe. Seed allergy possible in rare cases. High calorie — moderate consumption advised."
+  },
+  "Thechi": {
+    "scientific_name": "Ixora coccinea",
+    "family": "Rubiaceae",
+    "common_names": ["Thechi", "Jungle Geranium", "Flame of the Woods", "Rangan"],
+    "parts_used": ["Flowers", "Root", "Leaves", "Bark"],
+    "medicinal_uses": [
+      "Flower used for treating dysentery, diarrhea, and leucorrhoea",
+      "Root used as sedative and pain reliever",
+      "Anti-inflammatory and wound healing",
+      "Used for treating hypertension",
+      "Bark decoction for treating anemia and general debility"
+    ],
+    "key_compounds": ["Ixorin", "Lupeol", "Ursolic acid", "Rutin"],
+    "traditional_systems": ["Ayurveda", "Siddha"],
+    "precautions": "Generally safe. Consult practitioner for internal use."
+  },
+  "Thumba": {
+    "scientific_name": "Leucas aspera",
+    "family": "Lamiaceae",
+    "common_names": ["Thumba", "White Dead Nettle", "Dronapushpi"],
+    "parts_used": ["Leaves", "Flowers", "Whole plant"],
+    "medicinal_uses": [
+      "Leaf juice used for treating nasal congestion and sinusitis",
+      "Flower extract for cough and cold",
+      "Antimicrobial and insecticidal properties",
+      "Used for treating headaches — leaf paste on temples",
+      "Anti-inflammatory and wound healing"
+    ],
+    "key_compounds": ["Oleanolic acid", "Ursolic acid", "Nicotine", "Leucasin"],
+    "traditional_systems": ["Ayurveda", "Siddha"],
+    "precautions": "Generally safe for external use. Internal use should be moderate and under guidance."
+  },
+  "Touch Me Not": {
+    "scientific_name": "Mimosa pudica",
+    "family": "Fabaceae",
+    "common_names": ["Touch Me Not", "Sensitive Plant", "Lajjalu", "Thottasinungi"],
+    "parts_used": ["Leaves", "Root", "Whole plant"],
+    "medicinal_uses": [
+      "Root used for treating piles and fistula",
+      "Leaf paste for wound healing and skin diseases",
+      "Used for managing diabetes — reduces blood sugar",
+      "Anti-venom properties for snake bites (folk use)",
+      "Used for treating diarrhea, dysentery, and insomnia"
+    ],
+    "key_compounds": ["Mimosine", "Turgorins", "Tannins", "Flavonoids"],
+    "traditional_systems": ["Ayurveda", "Siddha", "Unani"],
+    "precautions": "Mimosine may be toxic in large doses. Avoid during pregnancy. Use in prescribed doses."
+  },
+  "Tridax procumbens": {
+    "scientific_name": "Tridax procumbens",
+    "family": "Asteraceae",
+    "common_names": ["Tridax Daisy", "Coat Buttons", "Ghamra"],
+    "parts_used": ["Leaves", "Flowers", "Whole plant"],
+    "medicinal_uses": [
+      "Excellent wound healer — leaf juice applied on cuts",
+      "Hemostatic — stops bleeding effectively",
+      "Anti-diabetic properties",
+      "Hepatoprotective — supports liver health",
+      "Antimicrobial and anti-inflammatory"
+    ],
+    "key_compounds": ["Luteolin", "Glucoluteolin", "Beta-sitosterol", "Fumaric acid"],
+    "traditional_systems": ["Ayurveda", "African traditional medicine"],
+    "precautions": "Generally safe for topical use. Internal use should be under guidance."
+  },
+  "Wild potato vine": {
+    "scientific_name": "Ipomoea pandurata",
+    "family": "Convolvulaceae",
+    "common_names": ["Wild Potato Vine", "Man Root", "Man of the Earth"],
+    "parts_used": ["Root", "Leaves"],
+    "medicinal_uses": [
+      "Root used as mild laxative and purgative",
+      "Diuretic properties — supports kidney function",
+      "Used for treating rheumatism and joint pain",
+      "Expectorant for cough and respiratory ailments",
+      "Root poultice for swelling and inflammation"
+    ],
+    "key_compounds": ["Ipomeanine", "Resin glycosides", "Coumarins"],
+    "traditional_systems": ["Native American medicine", "Folk medicine"],
+    "precautions": "Root may cause gastrointestinal upset in large doses. Not recommended during pregnancy."
+  },
+  "Yellow Daisy": {
+    "scientific_name": "Sphagneticola trilobata",
+    "family": "Asteraceae",
+    "common_names": ["Yellow Daisy", "Singapore Daisy", "Creeping Ox-Eye"],
+    "parts_used": ["Leaves", "Whole plant"],
+    "medicinal_uses": [
+      "Anti-inflammatory — leaf paste for joint pain",
+      "Used for treating infections and wounds",
+      "Hepatoprotective properties",
+      "Used for treating cough and respiratory issues",
+      "Antimicrobial and antifungal"
+    ],
+    "key_compounds": ["Wedelolactone", "Stigmasterol", "Luteolin", "Kaempferol"],
+    "traditional_systems": ["Traditional Chinese medicine", "Brazilian folk medicine"],
+    "precautions": "Invasive species in some regions. Generally safe for medicinal use in prescribed quantities."
+  }
+}

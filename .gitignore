@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.vscode/
+
+# datasets
+dataset/
+IMFI Indian Medicinal Flower Image Dataset/
+
+# models
+*.keras
+*.h5
+
+# temporary files
+*.jpg
+*.png
